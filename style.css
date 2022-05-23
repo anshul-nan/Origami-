@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: blue;
+    
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background: linear-gradient(#ffbe0b 20%,#4a4e69 50%,#1d3557 100%) ;
+}
+
+#origami1{
+background: linear-gradient(#1d3557 20%,#e63946 60%,#fb5607 100%);
+}
+
+#origami2{
+background: linear-gradient( #fb5607 7%,#ef233c 30%,#72efdd 60%,#5e548e 100%);
+}
+
+.line {
+    height: 6px;
+    background-color: #3a86ff;
+    width: 70px;
+    margin: 8px auto;
+}
